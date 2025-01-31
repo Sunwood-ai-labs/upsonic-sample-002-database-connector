@@ -230,3 +230,6 @@ terraform.tfvars
 spellbook/litellm/config.dev.yaml
 .env.aws
 .aws.env
+.SourceSageAssets/Repository_summary.md
+logs
+.SourceSageAssets/Repository_summary.md
