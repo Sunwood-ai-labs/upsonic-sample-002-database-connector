@@ -1,0 +1,3 @@
+[submodule "Upsonic"]
+	path = Upsonic
+	url = https://github.com/Upsonic/Upsonic.git

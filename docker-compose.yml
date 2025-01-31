@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: upsonic
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: upsonic_db
+    ports:
+      - "5434:5432"
+    volumes:
+      - db_:/var/lib/postgresql/data
+
+volumes:
+  db_:
