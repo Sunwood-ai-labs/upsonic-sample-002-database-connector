@@ -1,0 +1,131 @@
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['Search.*']
+Tools ['Search.*']
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 2532
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Search for the latest news about Anthropic Recent news, developments, and updates about Anthropic company [] ['Search__google', 'Search__read_website']\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 4110
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Search for the latest news about OpenAI Recent news, developments, and updates about OpenAI company [] ['Search__google', 'Search__read_website']\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 6021
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Compile a comprehensive summary comparing the latest developments of both companies A comparative summary highlighting key updates and developments from both companies ['Results from previous Anthropic and OpenAI searches'] []\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 8992
+Tools []
+Tools []
+message:  [{'type': 'text', 'text': 'AnthropicとOpenAIの最新ニュースを調査する\n\n'}]
+Retrying 1
+Tools []
+Tools []
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['google', 'read_website']
+Tools ['Search.*']
+Tools ['Search.*']
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 2269
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Search and gather the latest news about Anthropic A list of latest news and updates about Anthropic company [] ['Search__google', 'Search__read_website']\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 4209
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Search and gather the latest news about OpenAI A list of latest news and updates about OpenAI company [] ['Search__google', 'Search__read_website']\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 6549
+Tools ['Search.*']
+Tools ['Search.*']
+message:  [{'type': 'text', 'text': "Read and extract key information from the found news articles about both companies Key points and important updates from the gathered news about both Anthropic and OpenAI ['Results from previous searches'] ['Search__read_website']\n\n"}]
+Retrying 1
+Tools []
+Tools []
+
+
+
+****************Summarizing context string****************
+
+
+
+Summarized context string length: 9522
+Tools []
+Tools []
+message:  [{'type': 'text', 'text': 'AnthropicとOpenAIの最新ニュースを調査する\n\n'}]
+Retrying 1
+Tools []
+Tools []
