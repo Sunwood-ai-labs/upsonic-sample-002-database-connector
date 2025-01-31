@@ -1,14 +1,14 @@
-<p align="center">
+<div align="center">
   <img src="assets/header.svg" alt="Upsonic News Digest Analyzer" width="100%">
-</p>
+</div>
 
-<h1 align="center">📰 Upsonicニュース要約サンプル</h1>
+<h1 align="center">📰 Upsonicマーダーミステリーサンプル</h1>
 
-このプロジェクトは、Upsonicフレームワークを使用して、ニュース記事を要約する基本的なサンプルです。
+このプロジェクトは、Upsonicフレームワークを使用して、マーダーミステリーの情報を取得し、推理を行うサンプルです。
 
 ## 🚀 概要
 
-このサンプルでは、Upsonicの基本的な機能であるLLM呼び出しを使用して、指定されたトピックに関する最新のニュース記事を検索し、要約します。
+このサンプルでは、Upsonicの基本的な機能であるLLM呼び出しを使用して、データベースからマーダーミステリーの情報を取得し、推理を行います。
 
 ## 🛠️ 使い方
 
@@ -18,7 +18,7 @@
     pip install python-dotenv upsonic
     ```
 
-2. `.env`ファイルを作成し、OpenAI APIキーを設定します:
+2. `.env`ファイルを作成し、ANTHROPIC_API_KEYを設定します:
 
     ```bash
     OPENAI_API_KEY=your_api_key_here
@@ -31,6 +31,8 @@
     ```
 
 ## 💻 コードの解説
+
+詳細なコードの説明は[こちら](./docs/code_explanation.md)をご覧ください。
 
 ### 環境設定
 ```python
@@ -87,6 +89,8 @@ print(result)
 - タスクの結果を取得して表示
 
 ## ⚙️ 処理フローと実行ログ
+
+実行ログの詳細は[こちら](./docs/execution_log.md)をご覧ください。
 
 ### 実行環境
 - コマンド: `python3 main.py`
