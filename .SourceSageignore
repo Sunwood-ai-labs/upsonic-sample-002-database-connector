@@ -32,7 +32,9 @@ example
 folder
 package-lock.json
 .DS_Store
-Upsonic
+# Upsonic
 logs
 .venv
 venv
+*.toml
+uv.lock
